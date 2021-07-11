@@ -1,3 +1,1 @@
 - 👋 Hi, I’m @Raihan-Chowdhury
-- 👀 I’m interested in GO
-- 🌱 I’m currently learning Go lang
